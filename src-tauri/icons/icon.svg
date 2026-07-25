@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="NOVELIER">
+  <rect width="512" height="512" rx="116" fill="#fcfcfb"/>
+  <path d="M132 132c47-18 91-8 124 19v253c-33-27-77-37-124-19V132Z" fill="#181818"/>
+  <path d="M380 132c-47-18-91-8-124 19v253c33-27 77-37 124-19V132Z" fill="#2f7dd3"/>
+  <path d="M256 151v253" stroke="#fcfcfb" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+</svg>

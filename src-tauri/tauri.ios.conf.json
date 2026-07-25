@@ -1,0 +1,13 @@
+{
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "NOVELIER",
+        "decorations": true,
+        "transparent": false
+      }
+    ]
+  }
+}
+
